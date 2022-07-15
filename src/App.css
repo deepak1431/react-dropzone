@@ -1,0 +1,19 @@
+.dropArea{
+   display: grid;
+   place-items: center;
+   background-color:rgb(209, 176, 176);
+   width:500px;
+   height:400px;
+
+}
+.text{
+  border:dotted #555 3px;
+  width:300px;
+  height:250px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction:column;
+   
+
+}
